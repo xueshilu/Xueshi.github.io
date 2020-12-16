@@ -1,7 +1,7 @@
-## Education Background
+# Xueshi Lu
 
-You can use the [editor on GitHub](https://github.com/xueshilu/Xueshi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+09/2017 - presetn &emsp; B.Sc. Information and Computing Science , Xi’an Jiaotong-Liverpool University (XJTLU)
 
 ## Publication
