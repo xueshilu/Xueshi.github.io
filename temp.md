@@ -8,3 +8,4 @@
 
 DepthText: Leveraging Head Movements towards the Depth Dimension for Hands-free Text Entry in Mobile Virtual Reality Systems [Paper](papers/19_DepthMove.pdf)
 
+ open $(bundle info --path minima)
