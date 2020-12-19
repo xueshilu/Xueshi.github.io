@@ -4,8 +4,7 @@
 
 layout: home
 ---
-
-:rocket:
+come on, sweet dream
 
 # Education
 
