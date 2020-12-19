@@ -26,7 +26,7 @@ come on, sweet dream
 D. Yu, H.-N. Liang, **X. Lu**, K. Fan, and B. Ens<br /> 
 ACM Trans. Graph., vol. 38, no. 6, Nov. 2019, issn: 0730-0301<br /><br /> 
 
-### DepthText: Leveraging Head Movements towards the Depth Dimension for Hands-free Text Entry in Mobile Virtual Reality Systems [[Paper](papers/19_DepthText.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8797901)]<br />
+### DepthText: Leveraging Head Movements towards the Depth Dimension for Hands-free Text Entry in Mobile Virtual Reality Systems [[Paper](papers/19_DepthText_poster.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8797901)]<br />
 **X. Lu**, D. Yu, H.-N. Liang, X. Feng, and W. Xu<br /> 
 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), IEEE, 2019, pp. 1060–1061<br /><br />
 
