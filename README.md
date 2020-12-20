@@ -1,2 +1,2 @@
 # Xueshi.github.io
-Xueshi Lu's Blog(https://xueshilu.github.io/xueshi-blog/)
+Xueshi Lu's Blog(https://xueshilu.com)
