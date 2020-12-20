@@ -1,2 +1,1 @@
-# Xueshi.github.io
-Xueshi Lu's Blog(https://xueshilu.com)
+# Xueshi Lu, Homepage(https://xueshilu.com)
