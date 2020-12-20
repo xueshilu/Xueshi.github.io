@@ -20,11 +20,11 @@ come on, sweet dream
 
 ### Exploration of Hands-free Text Entry Techniques for Virtual Reality [[Paper](papers/20_Blink.pdf)] [[Arxiv](https://arxiv.org/abs/2010.03247)]<br />
 **X. Lu**, D. Yu, H.-N. Liang, W. Xu, C. Yuzheng, L. Xiang, and H. Khalad<br /> 
-#### 2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)<br /><br />
+2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)<br /><br />
 
 ### Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments [[Paper](papers/19_Modeling.pdf)] [[ACM](https://dl.acm.org/doi/10.1145/3355089.3356544)] <br />
 D. Yu, H.-N. Liang, **X. Lu**, K. Fan, and B. Ens<br /> 
-ACM Trans. Graph., vol. 38, no. 6, Nov. 2019, issn: 0730-0301<br /><br /> 
+ACM Trans. Graph., vol. 38, no. 6, Nov. 2019, issn: 0730-0301<br /><br /> 
 
 ### DepthText: Leveraging Head Movements towards the Depth Dimension for Hands-free Text Entry in Mobile Virtual Reality Systems [[Paper](papers/19_DepthText_poster.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8797901)]<br />
 **X. Lu**, D. Yu, H.-N. Liang, X. Feng, and W. Xu<br /> 
