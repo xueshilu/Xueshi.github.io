@@ -10,7 +10,7 @@ come on, sweet dream
 
 09/2017 - present &emsp; B.Sc. Information and Computing Science , Xi’an Jiaotong-Liverpool University (XJTLU)
 
-# Research Posistion
+# Research Position
 
 09/2018 – present &emsp; Undergraduate Research Intern, X-CHI Lab, XJTLU <br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Advisor: [Dr. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang)
