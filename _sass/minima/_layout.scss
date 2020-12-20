@@ -37,6 +37,20 @@
       color: $grey-color-dark;
     }
   }
+
+ .site-title-second {
+    @include relative-font-size(1);
+    font-weight: 600;
+    line-height: $base-line-height * $base-font-size * 2.25;
+    letter-spacing: -1px;
+    margin-bottom: 10;
+    float: left;
+    font-size: 35px;
+    &,
+    &:visited {
+      color: $grey-color-dark;
+    }
+  }
   
 .site-nav {
   float: right;

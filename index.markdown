@@ -4,7 +4,8 @@
 
 layout: home
 ---
-come on, sweet dream
+<!-- 
+come on, sweet dream -->
 
 # Education
 

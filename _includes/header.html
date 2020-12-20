@@ -3,7 +3,10 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <!-- margin: up right down left -->
+    <a><img src="profile/5t5.png" align="left" height="200" width="150"  style="margin:5px 15px 5px 0px" id = "profileImg" onclick="changeProfile()" ></a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{site.title | escape}} </a>
+
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -18,7 +21,7 @@
 
         <div class="trigger">
 
-          <a class="page-link" href="">About</a>
+          <a class="page-link">5t5</a>
 
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -30,4 +33,21 @@
       </nav>
     {%- endif -%}
   </div>
+
 </header>
+
+<script type = "text/javascript">
+  var image = document.getElementById("profileImg");
+  var currentPos = 0;
+  var images = ["profile/5t5.png", "profile/head.jpeg"]
+
+  function volgendefoto() {
+      if (++currentPos >= images.length)
+          currentPos = 0;
+
+      image.src = images[currentPos];
+  }
+  setInterval(volgendefoto, 2500);
+</script>
+
+
