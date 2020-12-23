@@ -43,6 +43,6 @@ ACM Trans. Graph., vol. 38, no. 6, Nov. 2019, issn: 0730-0301<br /><br /> <br />
 
 <img src="profile/depthmove.png" align='left' height="120" width="200" style="margin:5px 30px 0px 0px">  
 
-### DepthMove: Leveraging Dead Motions in the Depth Dimension to Interact with Virtual Reality Head-Worn Displays [[PDF](papers/19_DepthMove.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8943683)] <br />
+### DepthMove: Leveraging Dead Motions in the Depth Dimension to Interact with Virtual Reality Head-Worn Displays [[PDF](papers/DepthMove Leveraging Head Motions in the Depth Dimension to Interact with Virtual Reality Head-Worn Displays.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8943683)] <br />
 D. Yu, H.-N. Liang, **X. Lu**, T. Zhang, and W. Xu, <br /> 
 2019 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE, 2019, pp. 103–114
