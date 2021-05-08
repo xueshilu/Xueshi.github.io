@@ -11,7 +11,7 @@ come on, sweet dream -->
 
 (pending) 2021 &emsp; MSc Computer Science , The University of Edinburgh
 
-09/2017 - present &emsp; B.Sc. Information and Computing Science , Xi’an Jiaotong-Liverpool University (XJTLU)
+09/2017 - present &emsp; BSc Information and Computing Science , Xi’an Jiaotong-Liverpool University (XJTLU)
 
 # Research Position
 
