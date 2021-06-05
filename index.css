@@ -3,6 +3,10 @@ h1, h2{
     margin-bottom: 0.5em;
 }
 
+a{
+    color: rgb(51, 121, 206);
+    text-decoration:none
+}
 .OneLine{
     margin-bottom: 0.4em;
 }
@@ -26,5 +30,6 @@ h1, h2{
 .title{
     font-size: 18px;
     font-weight:550;
+    margin-bottom: 5px;
 }
 
