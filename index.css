@@ -6,3 +6,25 @@ h1, h2{
 .OneLine{
     margin-bottom: 0.4em;
 }
+
+.oneBox{
+    margin-bottom: 0.7em;
+}
+
+.half{
+    display: inline-block;
+}
+
+.left{
+    vertical-align: middle;
+}
+
+.right{
+    vertical-align: middle;
+}
+
+.title{
+    font-size: 18px;
+    font-weight:550;
+}
+
