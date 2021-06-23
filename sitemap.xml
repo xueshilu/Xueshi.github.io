@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://xueshilu.com/</loc>
+  <lastmod>2021-06-05T09:12:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://xueshilu.com/papers/CV_Xueshi_Lu.pdf</loc>
+  <lastmod>2021-06-05T09:12:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xueshilu.com/papers/Gaze-Supported%203D%20Object%20Manipulation%20in%20Virtual%20Reality.pdf</loc>
+  <lastmod>2021-06-05T09:12:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xueshilu.com/papers/Exploration%20of%20Hands-free%20Text%20Entry%20Techniques%20For%20Virtual%20Reality.pdf</loc>
+  <lastmod>2021-06-05T09:12:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xueshilu.com/papers/Modeling%20Endpoint%20Distribution%20of%20Pointing%20Selection%20Tasks%20in%20Virtual%20Reality%20Environments.pdf</loc>
+  <lastmod>2021-06-05T09:12:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xueshilu.com/papers/DepthMove.pdf</loc>
+  <lastmod>2021-06-05T09:12:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xueshilu.com/papers/DepthText%20Leveraging%20Head%20Movements%20towards%20the%20Depth%20Dimension%20for%20Hands-free%20Text%20Entry%20in%20Mobile%20Virtual%20Reality%20Systems.pdf</loc>
+  <lastmod>2021-06-05T09:12:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
